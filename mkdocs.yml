@@ -1,13 +1,12 @@
 ---
 site_name: Recipes
-site_description: A collection of my recipes.
-site_author: Nicholas Wilde
-site_url: https://nicholaswilde.io/recipes
-copyright: Copyright &copy; 2023 Nicholas Wilde
+site_description: A fork of Nicholas Wilde's recipe site
+site_author: Jamil Stafford
+site_url: https://jamils.github.io/recipes
 dev_addr: '0.0.0.0:8000'
 
-repo_url: https://github.com/nicholaswilde/recipes
-repo_name: nicholaswilde/recipes
+repo_url: https://github.com/jamils/recipes
+repo_name: jamils/recipes
 edit_uri: "edit/main/docs/"
 
 theme:
