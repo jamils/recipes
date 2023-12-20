@@ -994,27 +994,8 @@ nav:
       - Temperatures: reference/temperatures.md
       - Tips: reference/tips.md
       - Development: reference/development.md
-  - Cooklang Files: "https://github.com/nicholaswilde/recipes/tree/main/cook"
+  - Cooklang Files: "https://github.com/jamils/recipes/tree/main/cook"
   - Tags: tags.md
-
-extra:
-  social:
-    - icon: fontawesome/solid/house
-      link: https://nicholaswilde.io/
-    - icon: fontawesome/brands/github
-      link: https://github.com/nicholaswilde
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/nicholascwilde
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/wildewoodworking/
-    - icon: fontawesome/brands/linkedin-in
-      link: https://www.linkedin.com/in/nicholaswilde
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/nicholas.wilde/
-    - icon: fontawesome/brands/keybase
-      link: https://keybase.io/nicholaswilde
-    - icon: fontawesome/solid/key
-      link: https://github.com/nicholaswilde.gpg
 
 plugins:
   - tags:
@@ -1047,7 +1028,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: nicholaswilde
+      user: jamils
       repo: recipes
 
 extra_javascript:

@@ -9,9 +9,9 @@ updates:
       # Check for updates to GitHub Actions every weekday
       interval: "daily"
     reviewers:
-      - "nicholaswilde"
+      - "jamils"
     assignees:
-      - "nicholaswilde"
+      - "jamils"
     # Update the git submodules
   - package-ecosystem: "gitsubmodule"
     directory: "/"

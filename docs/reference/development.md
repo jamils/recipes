@@ -99,7 +99,7 @@ graph TD
   click D "#cook-import"
   click F "#cooklang"
   click H "#cook-docs"
-  click U "https://github.com/nicholaswilde/recipes/blob/main/.github/workflows/ci.yaml"
+  click U "https://github.com/jamils/recipes/blob/main/.github/workflows/ci.yaml"
   click X "#spellchecker-cli"
   click Y "#markdown-link-check"
 ```
