@@ -5,7 +5,7 @@
     	"ghcr.io/meaningful-ooo/devcontainer-features/homebrew:2": {},
     	"ghcr.io/devcontainers-contrib/features/pre-commit:2": {},
 	"ghcr.io/devcontainers-contrib/features/homebrew-package:1": {
-		"package": "nicholaswilde/tap/cook-docs"
+		"package": "jamils/tap/cook-docs"
 	},
 	"ghcr.io/devcontainers-contrib/features/npm-package:1": {
 		"package": "spellchecker-cli"
