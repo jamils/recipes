@@ -1,3 +1,4 @@
+bread-machine
 12cm
 13x9-in
 14x12
@@ -733,3 +734,22 @@ champignons
 boletus
 tempeh
 Truffley
+Lofthouse
+Flourless
+flourless
+Chez
+Panisse
+chez-panisse
+panna
+Panna
+cotta
+Cotta
+Galette
+jackfruit
+galette
+rois
+Rois
+des
+caramelization
+Bundt
+underbake

@@ -64,16 +64,19 @@ nav:
       - Basic Sweet Babka: breads/basic-sweet-babka.md
       - Best-Ever Banana Bread: breads/best-ever-banana-bread.md
       - Bread Machine French Bread: breads/bread-machine-french-bread.md
+      - Bread Machine Italian Parmesan: breads/bread-machine-italian-parmesan.md
       - Brioche: breads/brioche.md
       - Chocolate Chip Peanut Butter Banana Bread: breads/chocolate-chip-peanut-butter-banana-bread.md
       - Ciabatta: breads/ciabatta.md
       - Cinnamon Streusel Bread: breads/cinnamon-streusel-bread.md
+      - Cornbread: breads/cornbread.md
       - Cranberry Orange Bread: breads/cranberry-orange-bread.md
       - Croissants: breads/croissants.md
       - Delicious Zucchini Bread: breads/delicious-zucchini-bread.md
       - Garlic Bread: breads/garlic-bread.md
       - Honey Beer Bread: breads/honey-beer-bread.md
       - Honey Cornbread: breads/honey-cornbread.md
+      - Japanese Milk Bread Rolls: breads/japanese-milk-bread-rolls.md
       - Lemon Blueberry Bread: breads/lemon-blueberry-bread.md
       - Lemon Bread: breads/lemon-bread.md
       - Ligurian Focaccia: breads/ligurian-focaccia.md
@@ -175,8 +178,10 @@ nav:
       - Glazed Lemon Bars: cookies-and-bars/glazed-lemon-bars.md
       - Healthy Carrot Cookies: cookies-and-bars/healthy-carrot-cookies.md
       - Honey Cookies (Finikia): cookies-and-bars/honey-cookies-(finikia).md
+      - King Arthur Chocolate Chip Cookies: cookies-and-bars/king-arthur-chocolate-chip-cookies.md
       - Ladyfingers: cookies-and-bars/ladyfingers.md
       - Lemon Bars: cookies-and-bars/lemon-bars.md
+      - Lofthouse Cookies: cookies-and-bars/lofthouse-cookies.md
       - M&M Cookies: cookies-and-bars/m&m-cookies.md
       - Magic Cookie Bars: cookies-and-bars/magic-cookie-bars.md
       - Meringues: cookies-and-bars/meringues.md
@@ -225,6 +230,7 @@ nav:
   - Desserts:
       - Cakes:
           - 1-Bowl Vegan Gluten-Free Carrot Cake: desserts/cake/1-bowl-vegan-gluten-free-carrot-cake.md
+          - Apple Cake: desserts/cake/apple-cake.md
           - Apple Fritter Cake: desserts/cake/apple-fritter-cake.md
           - Beccherie Tiramisù: desserts/cake/beccherie-tiramisù.md
           - Boston Cream Pie: desserts/cake/boston-cream-pie.md
@@ -232,6 +238,7 @@ nav:
               desserts/cake/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.md
           - Carrot Cake: desserts/cake/carrot-cake.md
           - Cherry Almond Skyr Cake: desserts/cake/cherry-almond-skyr-cake.md
+          - Chez Panisse Almond Torte: desserts/cake/chez-panisse-almond-torte.md
           - Cinnamon Chocolate Cake: desserts/cake/cinnamon-chocolate-cake.md
           - Cinnamon Coffee Cake: desserts/cake/cinnamon-coffee-cake.md
           - Cinnamon-Crisp Coffee Cake: desserts/cake/cinnamon-crisp-coffee-cake.md
@@ -239,15 +246,19 @@ nav:
           - Classic Birthday Cake: desserts/cake/classic-birthday-cake.md
           - Cream Cheese Pound Cake: desserts/cake/cream-cheese-pound-cake.md
           - Dominique Ansel's Chocolate Cake: desserts/cake/dominique-ansel's-chocolate-cake.md
-          - Egg Yolk Lemon Cake: desserts/cake/egg-yolk-lemon-cake.md
+          - Flourless Chocolate Cake: desserts/cake/flourless-chocolate-cake.md
           - Funfetti Cake: desserts/cake/funfetti-cake.md
+          - Galette des Rois: desserts/cake/galette-des-rois.md
           - Gâteau Basque: desserts/cake/gâteau-basque.md
           - Ina Garten's Coconut Cake: desserts/cake/ina-garten's-coconut-cake.md
+          - Lemon Bundt Cake: desserts/cake/lemon-bundt-cake.md
           - No-Bake Banana & Peanut Butter Caramel Icebox Cake: >-
               desserts/cake/no-bake-banana-and-peanut-butter-caramel-icebox-cake.md
           - Olive Oil Cake: desserts/cake/olive-oil-cake.md
+          - Orange Cake: desserts/cake/orange-cake.md
           - Pineapple Upside Down Cake: desserts/cake/pineapple-upside-down-cake.md
           - Poppy Seed Almond Cake: desserts/cake/poppy-seed-almond-cake.md
+          - Pound Cake: desserts/cake/pound-cake.md
           - Prinsesstårta: desserts/cake/prinsesstårta.md
           - Reine be Saba (Queen of Sheba): desserts/cake/reine-be-saba-(queen-of-sheba).md
           - Smash Cake: desserts/cake/smash-cake.md
@@ -297,6 +308,7 @@ nav:
       - Brandy Snaps: desserts/brandy-snaps.md
       - Bread Pudding: desserts/bread-pudding.md
       - Buckeyes: desserts/buckeyes.md
+      - Buttermilk Panna Cotta: desserts/buttermilk-panna-cotta.md
       - Cannoli: desserts/cannoli.md
       - Choco Taco: desserts/choco-taco.md
       - Chocolate Mousse: desserts/chocolate-mousse.md
@@ -311,6 +323,7 @@ nav:
       - Disney's Churros: desserts/disney's-churros.md
       - Disney's Frozen Pineapple Treat: desserts/disney's-frozen-pineapple-treat.md
       - English Toffee: desserts/english-toffee.md
+      - Fruit Galette: desserts/fruit-galette.md
       - Gordon Ramsay's Chocolate Soufflé: desserts/gordon-ramsay's-chocolate-soufflé.md
       - Grandma Kleins Chocolate Caramels: desserts/grandma-kleins-chocolate-caramels.md
       - Gulab Jambu: desserts/gulab-jambu.md
@@ -351,6 +364,7 @@ nav:
       - Alton Brown's White Trash: holiday/alton-brown's-white-trash.md
       - Aunt Mary's Cherry Mashers: holiday/aunt-marys-cherry-mashers.md
       - Baked Ziti: holiday/baked-ziti.md
+      - Pampered Chef Cannoli: holiday/pampered-chef-cannoli.md
       - Cheesy Potatoes: holiday/cheesy-potatoes.md
       - Chippy Chewy Bars: holiday/chippy-chewy-bars.md
       - Chocolate Chip Cookie Dough Fudge: holiday/chocolate-chip-cookie-dough-fudge.md
@@ -494,7 +508,9 @@ nav:
           - Pan-Fried Tofu: ingredients/tofu/pan-fried-tofu.md
       - Almond Cotija: ingredients/almond-cotija.md
       - Almond Flour: ingredients/almond-flour.md
+      - Almond Paste: ingredients/almond-paste.md
       - Aquafaba: ingredients/aquafaba.md
+      - Aquafaba Whipped Cream: ingredients/aquafaba-whipped-cream.md
       - Beurre Manié: ingredients/beurre-manié.md
       - Bisquick: ingredients/bisquick.md
       - Blanched Almonds: ingredients/blanched-almonds.md
@@ -551,6 +567,7 @@ nav:
       - Scottish Oatmeal: ingredients/scottish-oatmeal.md
       - Simple Syrup: ingredients/simple-syrup.md
       - Sourdough Starter: ingredients/sourdough-starter.md
+      - Stiff Sourdough Starter: ingredients/stiff-sourdough-starter.md
       - Strawberry Purée: ingredients/strawberry-purée.md
       - Streusel Crumble: ingredients/streusel-crumble.md
       - Sweetened Coconut Flakes: ingredients/sweetened-coconut-flakes.md
@@ -562,6 +579,7 @@ nav:
       - Vanilla Sugar: ingredients/vanilla-sugar.md
       - Vegan Marshmallows: ingredients/vegan-marshmallows.md
       - Vegan Parmesan: ingredients/vegan-parmesan.md
+      - Vegan Veggie Ground Meat: ingredients/vegan-veggie-ground-meat.md
       - Vegetable Broth: ingredients/vegetable-broth.md
       - Yogurt: ingredients/yogurt.md
   - Italian:
@@ -730,6 +748,7 @@ nav:
       - Claire's Five-Onion Dip: sauces-and-dressings/claire's-five-onion-dip.md
       - Classic Mustard: sauces-and-dressings/classic-mustard.md
       - Classic Tartar Sauce: sauces-and-dressings/classic-tartar-sauce.md
+      - Creamy Cilantro Dressing: sauces-and-dressings/creamy-cilantro-dressing.md
       - Creamy Vegan Cheese Sauce: sauces-and-dressings/creamy-vegan-cheese-sauce.md
       - Crème Anglaise: sauces-and-dressings/crème-anglaise.md
       - Dijon Mustard: sauces-and-dressings/dijon-mustard.md
@@ -758,6 +777,7 @@ nav:
       - New York-Style Pizza Sauce: sauces-and-dressings/new-york-style-pizza-sauce.md
       - New York Times' Classic Marinara Sauce: sauces-and-dressings/new-york-times'-classic-marinara-sauce.md
       - Oil-Free Easy French Hummus Dressing: sauces-and-dressings/oil-free-easy-french-hummus-dressing.md
+      - Oil-Free Hummus: sauces-and-dressings/oil-free-hummus.md
       - Orange Juice-Lime Salad Dressing: sauces-and-dressings/orange-juice-lime-salad-dressing.md
       - Peanut Dipping Sauce: sauces-and-dressings/peanut-dipping-sauce.md
       - Persian Yogurt Dip with Shallots (Mast-O Musir): >-
@@ -768,6 +788,7 @@ nav:
       - Red Wine Vinaigrette: sauces-and-dressings/red-wine-vinaigrette.md
       - Rip's Salad Dressing: sauces-and-dressings/rip's-salad-dressing.md
       - Roasted Red Pepper Coulis: sauces-and-dressings/roasted-red-pepper-coulis.md
+      - Roasted Red Pepper Dressing: sauces-and-dressings/roasted-red-pepper-dressing.md
       - Roasted Red Pepper Sauce: sauces-and-dressings/roasted-red-pepper-sauce.md
       - Salsa Fresca (Pico de Gallo): sauces-and-dressings/salsa-fresca-(pico-de-gallo).md
       - Salsa Negra: sauces-and-dressings/salsa-negra.md
@@ -889,6 +910,7 @@ nav:
       - Quinoa: sides/quinoa.md
       - Red Cabbage Salad: sides/red-cabbage-salad.md
       - Ritz Crackers: sides/ritz-crackers.md
+      - Roasted Chickpea Snack: sides/roasted-chickpea-snack.md
       - Roasted Delicata Squash: sides/roasted-delicata-squash.md
       - Roasted Fennel with Garlic & Thyme: sides/roasted-fennel-with-garlic-and-thyme.md
       - Rosemary Roasted Cashews: sides/rosemary-roasted-cashews.md
@@ -991,6 +1013,7 @@ nav:
       - Measuring: reference/measuring.md
       - Pressure Cooker: reference/pressure-cooker.md
       - Seasons: reference/seasons.md
+      - Spirits: reference/spirits.md
       - Temperatures: reference/temperatures.md
       - Tips: reference/tips.md
       - Development: reference/development.md
