@@ -9,6 +9,13 @@
 
 My collection of recipes made with [cooklang][1].
 
+## :heart: Favorites
+
+These are recipes I've added myself.
+- [Black Forest Cheese Cakes](./desserts/cupcakes/black-forest-cheesecake.md)
+- [Chocolate Cake](./desserts/cake/chocolate-cake.md) 
+
+<!-- 
 The `cooklang` files are stored in the `cook` folder and the markdown files are stored
 in the `docs` folder.
 
@@ -49,7 +56,7 @@ own personal reference.
 
     Recipes on this site might be different than the sourced recipes due to personal modifications. E.g.
     changing the amount of chili powder to make the dish less spicy or [aging cookie dough][4] where egg white
-    are the main liquid component in order to control spread and concentrate flavor.
+    are the main liquid component in order to control spread and concentrate flavor. -->
 
 ## :key:&nbsp; Assumptions
 
@@ -73,10 +80,6 @@ The following may be assumed throughout the site unless otherwise specified
 ## :gear:&nbsp; Development
 
 Development of this site is documented [here][3].
-
-## :scales:&nbsp;​License
-
-​[Apache 2.0 License](../LICENSE)
 
 ## :pencil:&nbsp;​Author
 
