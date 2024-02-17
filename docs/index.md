@@ -2,8 +2,6 @@
 # :green_salad: Recipes :book:
 
 [![ci](https://img.shields.io/github/actions/workflow/status/jamils/recipes/ci.yaml?label=ci&style=for-the-badge&branch=main)](https://github.com/jamils/recipes/actions/workflows/ci.yaml)
-[![link-check](https://img.shields.io/github/actions/workflow/status/jamils/recipes/link-check.yaml?label=link-check&style=for-the-badge&branch=main)](https://github.com/jamils/recipes/actions/workflows/link-check.yaml)
-[![spellcheck](https://img.shields.io/github/actions/workflow/status/jamils/recipes/spellcheck.yaml?label=spellcheck&style=for-the-badge&branch=main)](https://github.com/jamils/recipes/actions/workflows/spellcheck.yaml)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white&style=for-the-badge)](https://pre-commit.com/)
 [![task](https://img.shields.io/badge/task-enabled-brightgreen?logo=task&logoColor=white&style=for-the-badge)](https://taskfile.dev/)
 
@@ -11,9 +9,9 @@ My collection of recipes made with [cooklang][1].
 
 ## :heart: Favorites
 
-These are recipes I've added myself.
-- [Black Forest Cheese Cakes](./desserts/cupcakes/black-forest-cheesecake.md)
-- [Chocolate Cake](./desserts/cake/chocolate-cake.md) 
+These are recipes I've added myself:
+ * [Black Forest Cheese Cakes](./desserts/cupcakes/black-forest-cheesecake.md)
+ * [Chocolate Cake](./desserts/cake/chocolate-cake.md) 
 
 <!-- 
 The `cooklang` files are stored in the `cook` folder and the markdown files are stored

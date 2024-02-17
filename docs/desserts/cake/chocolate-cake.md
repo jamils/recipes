@@ -1,10 +1,14 @@
 ---
 serves: '12'
 total time: '2 hours'
+tags:
+    - dessert
+    - american
+    - cake
+    - favorite
 ---
 
 # Chocolate Cake
-#dessert #american #cake 
 
 ## Ingredients
 - *2 cups* all purpose flour

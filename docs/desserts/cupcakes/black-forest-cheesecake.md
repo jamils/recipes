@@ -6,6 +6,7 @@ tags:
     - dessert
     - cupcake
     - cheesecake
+    - favorite
     - bel
 ---
 
@@ -16,19 +17,19 @@ tags:
 | 12 | 3 hours |
 
 ## :salt: Ingredients
-- *1 cup* chocolate cookie crumbs
-- *4 Tablespoons* melted butter
-- *8 oz* softened cream cheese
-- *1/2 cup* sugar
-- *1/4 cup* plain greek yogurt
-- *2* eggs
-- *3 Tablespoons* cocoa powder
-- *1 cup* heaving whipping cream
-- *3 Tablespoons* powdered sugar
-- *2 oz* chocolate chips
-- *2 teaspoons* cold butter
-- *4 Tablespoons* cherry preserves
-- *3 teaspoons* water
+- :chocolate_bar: *1 cup* chocolate cookie crumbs
+- :butter: *4 Tablespoons* melted butter
+- :bagel: *8 oz* softened cream cheese
+- :candy: *1/2 cup* sugar
+- :icecream: *1/4 cup* plain greek yogurt
+- :egg: *2* eggs
+- :chocolate_bar: *3 Tablespoons* cocoa powder
+- :glass_of_milk: *1 cup* heaving whipping cream
+- :candy: *3 Tablespoons* powdered sugar
+- :chocolate_bar: *2 oz* chocolate chips
+- :butter: *2 teaspoons* cold butter
+- :cherries: *4 Tablespoons* cherry preserves
+- :droplet: *3 teaspoons* water
 
 ## :cooking: Cookware
 - *12* mini pie tins
