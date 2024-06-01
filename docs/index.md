@@ -10,8 +10,10 @@ My collection of recipes made with [cooklang][1].
 ## :heart: Favorites
 
 These are recipes I've added myself:
- * [Black Forest Cheese Cakes](./desserts/cupcakes/black-forest-cheesecake.md)
- * [Chocolate Cake](./desserts/cake/chocolate-cake.md) 
+
+* [Black Forest Cheese Cakes](./desserts/cupcakes/black-forest-cheesecake.md)
+* [Chocolate Cake](./desserts/cake/chocolate-cake.md)
+* [German Soft Pretzels](./breads/authentic-german-soft-pretzel.md)
 
 <!-- 
 The `cooklang` files are stored in the `cook` folder and the markdown files are stored
