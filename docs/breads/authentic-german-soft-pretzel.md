@@ -1,11 +1,20 @@
 ---
+comments: true
+tags:
+  - bread
 source:
-  name: null
+  name: The Spruce Eats
   url: https://www.thespruceeats.com/brezel-the-soft-pretzels-with-old-world-taste-1446685
 serves: '12'
 ---
 
-# Authentic German Soft Pretzel (Laugenbrezeln)
+# :bread: Authentic German Soft Pretzel (Laugenbrezeln)
+
+![German Soft Pretzel][1]{ loading=lazy }
+
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
+|:----------------------------------:|:-----------------------: |
+| 12 pretzels | 3.5 hours |
 
 ## Ingredients
 - *1 tbsp* active dry yeast
@@ -34,7 +43,7 @@ serves: '12'
 - greased baking sheet
 - parchment-paper-lined baking sheet
 
-## Steps
+## :pencil: Instructions
 ### Make the dough
 1. Proof the active dry yeast by dissolving it in 1/4 cup warm water for 5
 minutes.
@@ -53,7 +62,7 @@ velvety to the touch.
 5. Form into a ball, butter all surfaces, and let rise until double, 1 hour, in
 a warm spot.
 
-### :pretzel Shape the Pretzels
+### :pretzel: Shape the Pretzels
 6. Place the wax paper onto the baking sheet.
 
 7. De-gas (punch down) the dough.
@@ -91,3 +100,4 @@ thick part of the pretzel horizontally with a razor blade. Let prezels rest for
 
 18. Heat oven to 375°F. Bake pretzels for 20 minutes or until deep golden brown.
 
+[1]: <../cook\breads\Almost No-Knead Sourdough Bread.jpg>

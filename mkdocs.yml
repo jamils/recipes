@@ -1027,6 +1027,7 @@ plugins:
   - search
   - macros
   - open-in-new-tab
+  - typeset
 #   - minify:
 #       minify_html: true
 
