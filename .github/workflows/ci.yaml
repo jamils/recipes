@@ -1,35 +1,30 @@
----
-name: ci
-on:  # yamllint disable-line rule:truthy
+name: ci 
+on:
   push:
-    paths:
-      - 'docs/**'
-      - 'mkdocs.**'
     branches:
+      - master 
       - main
-  workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
-  build:
-    name: Deploy docs
-    runs-on: ubuntu-20.04
+  deploy:
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-
-      - name: Set up build cache
-        uses: actions/cache@v3
-        id: cache
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v4
         with:
-          key: ${{ runner.os }}-${{ hashFiles('.cache/**') }}
+          key: mkdocs-material-${{ env.cache_id }}
           path: .cache
-
-      - name: Install mkdocs-material
+          restore-keys: |
+            mkdocs-material-
         run: |
           pip install \
             mkdocs-material \
@@ -37,8 +32,4 @@ jobs:
             mkdocs-redirects \
             mkdocs-git-committers-plugin-2 \
             mkdocs-git-revision-date-localized-plugin
-
-      - name: Deploy mkdocs
-        run: |
-          mkdocs gh-deploy --force
-          mkdocs --version
+        run: mkdocs gh-deploy --force
