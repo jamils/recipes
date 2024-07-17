@@ -13,13 +13,13 @@ tags:
 | 15 minutes |
 
 ## :salt: Ingredients
-- :water: salted water
+- :droplet: salted water
 - :egg: *2* eggs
-- :pumpkin: *1 cup* pumpkin
+- :jack_o_lantern: *1 cup* pumpkin
 - :milk: *1/2 cup* half and half
 - :cheese: *1/2 cup* parmesan
 - :salt: salt
-- :pepper: black pepper
+- :salt: black pepper
 - :spaghetti: *8 oz* penne rigate pasta
 - :bacon: *4 slices* cooked and crumbled bacon
 - :herb: *1/4 cup* thinly sliced basil
